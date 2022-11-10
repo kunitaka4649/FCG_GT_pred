@@ -62,5 +62,5 @@ trained_mdls/top-10/lr_1e-05.bin.dev.result.eval
 trained_mdls/top-10/lr_3e-05.bin.dev.result.eval
 ```
 
-Among these results, the result with the highest value of f_measure can be said to be the predicted GTs with the highest accuracy.
+Among these results, the result with the highest value of f_measure is good.
 In the case of seed value 1234, lr_3e-05 has the best performance.
